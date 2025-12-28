@@ -6,10 +6,10 @@
 | 이름 | 포지션 
 | :--- | :--- | 
 | **지연우** | Full Stack 
-| **배윤상** | Full Stack 
+| **배윤상** | Back-end 
 | **엄효선** | Full Stack 
 | **이우민** | Full Stack 
-| ... | ... | ... |
+
 
 ## 🛠 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
