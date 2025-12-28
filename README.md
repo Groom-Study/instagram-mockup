@@ -5,7 +5,7 @@
 ## 👥 Our Team: NOT NULL
 | 이름 | 포지션 | 깃허브 |
 | :--- | :--- | :--- |
-| **이연우** | Full Stack | [@id](link) |
+| **지연우** | Full Stack | [@id](link) |
 | **배윤상** | Full Stack | [@yoonsang](link) |
 | **엄효선** | Full Stack | [@id](link) |
 | **이우민** | Full Stack | [@id](link) |
