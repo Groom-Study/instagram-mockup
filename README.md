@@ -1,17 +1,20 @@
-# ☁️ Groom Deep Dive Fullstack 19th - Team 3: NOT NULL
+# Instagram Winter Mockup Study
+구름 팀미션1 인스타그램 목업 만들기 과제 제출 저장소입니다.
 
-> **"비어있지 않은 열정, 반드시 결과를 만드는 NOT NULL"**
+## 프로젝트 소개
+- **주제**: DOM 구조를 활용한 인스타그램 UI 구현 
+- **기술 스택**: HTML5, CSS3 (Font Awesome 아이콘 활용)
+- **주요 기능**:
+  - 인스타그램 피드 레이아웃 구현
+  - 겨울 감성 스타일링 
+  - 유명인 계정 인증 배지(Verified Badge) 적용
 
-## 👥 Our Team: NOT NULL
-| 이름 | 포지션 
-| :--- | :--- | 
-| **지연우** | Full Stack 
-| **배윤상** | Backend 
-| **엄효선** | Full Stack 
-| **이우민** | Full Stack 
+## 디렉토리 구조
+- `index.html`: 메인 구조 (DOM)
+- `style.css`: 겨울 테마 스타일링
+- `assets/`: 프로필 사진 
 
-
-## 🛠 Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+## 핵심 포인트
+- 시멘틱 태그를 활용한 레이아웃 설계
+- Flexbox를 이용한 요소 정렬 (아이디 옆 인증 마크 등)
+- Font Awesome 외부 라이브러리 연동
