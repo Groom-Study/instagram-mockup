@@ -3,12 +3,12 @@
 > **"비어있지 않은 열정, 반드시 결과를 만드는 NOT NULL"**
 
 ## 👥 Our Team: NOT NULL
-| 이름 | 포지션 | 깃허브 |
-| :--- | :--- | :--- |
-| **지연우** | Full Stack | [@id](link) |
-| **배윤상** | Full Stack | [@yoonsang](https://github.com/bys0212) |
-| **엄효선** | Full Stack | [@id](link) |
-| **이우민** | Full Stack | [@id](link) |
+| 이름 | 포지션 
+| :--- | :--- | 
+| **지연우** | Full Stack 
+| **배윤상** | Full Stack 
+| **엄효선** | Full Stack 
+| **이우민** | Full Stack 
 | ... | ... | ... |
 
 ## 🛠 Tech Stack
