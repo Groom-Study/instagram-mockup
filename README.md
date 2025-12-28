@@ -6,7 +6,7 @@
 | 이름 | 포지션 
 | :--- | :--- | 
 | **지연우** | Full Stack 
-| **배윤상** | Back-end 
+| **배윤상** | Backend 
 | **엄효선** | Full Stack 
 | **이우민** | Full Stack 
 
