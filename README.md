@@ -19,7 +19,7 @@
 | :--- | :--- | :--- | :--- |
 | **배윤상** | 인스타그램 | [feature/yoonsang_FullStack19](https://github.com/Groom-Study/instagram-mockup/tree/feature/yoonsang_FullStack19) | ✅ 완료 |
 | **지연우** | 인스타그램 | [yeonwoo](https://github.com/Groom-Study/instagram-mockup/tree/yeonwoo) | ✅ 완료 |
-| **엄효선** | 인스타그램 | [feature/member2](#) | 🏗️ 진행 중 |
+| **엄효선** | 인스타그램 | [feature/hsyeom](https://github.com/Groom-Study/instagram-mockup/tree/feature/hsyeom) | ✅ 완료 |
 | **이우민** | 인스타그램 | [feature/woomin](https://github.com/Groom-Study/instagram-mockup/tree/feature/woomin) | ✅ 완료 |
 
 ---
