@@ -18,7 +18,7 @@
 | 이름 | 담당 미션 | 작업 브랜치 (Link) | 상태 |
 | :--- | :--- | :--- | :--- |
 | **배윤상** | 인스타그램 | [feature/yoonsang_FullStack19](https://github.com/Groom-Study/instagram-mockup/tree/feature/yoonsang_FullStack19) | ✅ 완료 |
-| **지연우** | 인스타그램 | [feature/member1](#) | 🏗️ 진행 중 |
+| **지연우** | 인스타그램 | [yeonwoo](https://github.com/Groom-Study/instagram-mockup/tree/yeonwoo) | ✅ 완료 |
 | **엄효선** | 인스타그램 | [feature/member2](#) | 🏗️ 진행 중 |
 | **이우민** | 인스타그램 | [feature/member3](#) | 🏗️ 진행 중 |
 
