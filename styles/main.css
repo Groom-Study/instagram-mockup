@@ -192,3 +192,13 @@
     overflow: hidden;
     position: relative;
 }
+
+@media (min-width: 1024px) {
+    .main-container {
+        background-color: #FAFAFA;
+    }
+
+    .content {
+        margin: unset;
+    }
+}
