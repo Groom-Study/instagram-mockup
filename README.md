@@ -13,12 +13,13 @@
 - `index.html`: 메인 구조 (DOM)
 - `style.css`: 겨울 테마 스타일링
 - `assets/`: 프로필 사진
-- intagram-mockup/
-├── instagram.html      # 전체 구조 및 마크업
+intagram-mockup/
+├── instagram.html      # 전체 구조 및 시멘틱 마크업 (DOM)
 ├── styles/
-│   └── style.css       # 레이아웃 및 컴포넌트 스타일링 (Flex 중심)
+│   └── style.css       # 겨울 테마 및 레이아웃 스타일링 (Flex 중심)
 └── assets/
-    └── images/         # 프로필 및 포스트 샘플 이미지
+    ├── images/         # 프로필 및 포스트 샘플 이미지
+    └── jbkwak.jpg      # 샘플 리소스
 
 ## 핵심 포인트
 - 시멘틱 태그를 활용한 레이아웃 설계
